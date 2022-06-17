@@ -6,7 +6,6 @@
 
 body{
   font-family: 'Montserrat', sans-serif;
-
 }
 .banner {
   width: 100%;
@@ -264,15 +263,12 @@ body{
 
 .footer_child_1{
   display: flex;
-
   justify-content: center;
   align-items: center;
   color:white;
   font-size: 30px;
-} */
-
-
-ul{
+} 
+ul{                                                                                                                                                                                                                                                                                                                                                                            
   margin-top: 20px;
 }
 
